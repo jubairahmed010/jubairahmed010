@@ -11,7 +11,6 @@
 - 📫 How to reach me **jubairahmed13260@gmail.com**
 
 - ⚡ Fun fact **I think I am Boring!**
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jubairahmed010&hide_progress=true)](https://github.com/jubairahmed010/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
